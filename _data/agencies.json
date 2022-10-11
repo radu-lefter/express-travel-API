@@ -1,0 +1,58 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"name": "Hermes Travel",
+		"description": "Hermes Travel is an award winnign agency that provides great travel packages in Greece and all over the Mediteraneean.",
+		"website": "https://hermestravel.com",
+		"phone": "694 248 7225",
+		"email": "book@hermestravel.com",
+		"address": "Asklipiou 91, Athina, Attica, 114 72, Greece",
+		"countries": ["Greece", "Italy", "Croatia", "France", "Spain", "Malta", "Albania"],
+		"flightIncluded": true,
+		"privateTours": true,
+		"returningClientDiscount": true
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046",
+		"name": "Bhaalshamin Travel",
+		"description": "Explore ancient cultures, fabulous cuisines and famous hospitality around the Middle East with our safe and select travel packages.",
+		"website": "https://bhaalshamin.com",
+		"phone": "0151 326 8978",
+		"email": "book@bhaalshamin.com",
+		"address": "Tavakkoli Avval, Shahre Sari, Mazandaran, 4818643675, Iran",
+		"countries": ["Iran", "Syria", "Turkey", "Azerbaijan", "Jordan", "Israel", "Lebanon"],
+		"flightIncluded": true,
+		"privateTours": false,
+		"returningClientDiscount": false
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"name": "Chammo Lam Lha Tourism",
+		"description": "Reach the highest peaks and the deepest seas with our amazing travel agency focused on breath-taking locations in the Far East",
+       	"website": "https://chammolamlhatours.com",
+		"phone": "088-303 900",
+		"email": "book@chammolamlhatours.com",
+		"address": "1 Sutera Harbour Boulevard, Kota Kinabalu, Sabah, 89458, Malaysia",
+		"countries": ["Malaysia", "China", "Thailand", "Nepal", "Japan", "Indonesia"],
+		"flightIncluded": false,
+		"privateTours": false,
+		"returningClientDiscount": true
+	},
+	{
+		"_id": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032",
+		"name": "Khonsu Travel",
+		"description": "Experience the grandeur and majesty of Egypt by booking our renowned travel offers at never before seen prices.",
+		"website": "https://travelkhonsu.com",
+		"phone": "(0222) 333 0707",
+		"email": "book@travelkhonsu.com",
+		"address": "Eskibağlar Mh., Tepebaşı, Eskişehir, 26700, Turkey",
+		"countries": ["Egypt", "Turkey", "Tunisia", "Morocco"],
+		"flightIncluded": true,
+		"privateTours": false,
+		"returningClientDiscount": false
+	}
+]

@@ -1,0 +1,101 @@
+[
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"title": "Greek Islands Tour",
+		"description": "This tour will take you through the most visited Greek Islands, renowned for their beaches and blue waters.",
+		"weeks": 2,
+		"price": 2000,
+		"allInclusive": true,
+		"installmentsAccepted": true,
+		"agency": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"title": "Croatian Holiday",
+		"description": "From the awe inspiring Croatian gorges to the sunny beautiful island, this is a holiday you won't forget.",
+		"weeks": 1,
+		"price": 1500,
+		"allInclusive": false,
+		"installmentsAccepted": false,
+		"agency": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"title": "Ancient Iran Tour",
+		"description": "Experience the charm of Persepolis, the ancient capital of the Persian Empire  and the beautiful mosques of Isfahan.",
+		"weeks": 2,
+		"price": 4000,
+		"allInclusive": true,
+		"installmentsAccepted": false,
+		"agency": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"title": "Lebanese Coast Sojourn",
+		"description": "From the ruins of ancients civilizations to the colorful bazaars of modern Beirut, prepare to be enchanted.",
+		"weeks": 1,
+		"price": 3000,
+		"allInclusive": true,
+		"installmentsAccepted": false,
+		"agency": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"title": "Tibet Tour",
+		"description": "Breathe in the fresh mountain air and prepare to become breathless at the wonders of the Himalayas.",
+		"weeks": 2,
+		"price": 7000,
+		"allInclusive": false,
+		"installmentsAccepted": true,
+		"agency": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"title": "Tahiland Resort Sojourn",
+		"description": "Spend an amazing month basking in the sun and enjoy the tropical nightlife of Thailand.",
+		"weeks": 4,
+		"price": 4000,
+		"allInclusive": true,
+		"installmentsAccepted": true,
+		"agency": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa5",
+		"title": "Tour of the Pyramids",
+		"description": "Experience the wonder of some of the most ancient monuments in existence in this essentail tour for adventure lovers.",
+		"weeks": 1,
+		"price": 3000,
+		"allInclusive": true,
+		"installmentsAccepted": true,
+		"agency": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa6",
+		"title": "Antalya Sojourn",
+		"description": "Forget all your troubles while we take care of you in this amazing fairy tale resort.",
+		"weeks": 3,
+		"price": 7000,
+		"allInclusive": true,
+		"installmentsAccepted": false,
+		"agency": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa7",
+		"title": "Morocco Holiday",
+		"description": "Blue souks and even bluer waters will make a lasting impression in this magic holiday.",
+		"weeks": 2,
+		"price": 2000,
+		"allInclusive": false,
+		"installmentsAccepted": false,
+		"agency": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032"
+	}
+]
