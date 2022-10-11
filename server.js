@@ -16,6 +16,9 @@ const agencies = require('./routes/agencies');
 
 const app = express();
 
+// Body parser
+app.use(express.json());
+
 // Dev logging middleware
 if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
@@ -26,7 +29,7 @@ app.use('/api/v1/agencies', agencies);
 
 const PORT = process.env.PORT || 5000;
 
-const server = app.listen(
+const server = app.listen(PORT,
   console.log(
     `Server running in ${process.env.NODE_ENV} mode on port ${PORT}`.yellow.bold
   )
